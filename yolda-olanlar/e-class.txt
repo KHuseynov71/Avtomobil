@@ -1,4 +1,4 @@
 hecm 200
 reng mavi
-catma vaxt; texmini 2ay
+catma vaxt 1 ay
 
